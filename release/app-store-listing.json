@@ -1,0 +1,16 @@
+{
+  "name": "Trail Radio",
+  "subtitle": "A little pocket prairie",
+  "primaryCategory": "Lifestyle",
+  "price": "Free",
+  "language": "en-US",
+  "supportURL": "https://jediv.github.io/trail-radio/",
+  "privacyPolicyURL": "https://jediv.github.io/trail-radio/privacy.html",
+  "keywords": "brown noise,wind,ambience,offline,relax,ambient,soundscape,wagon,prairie,timer",
+  "promotionalText": "A warm, green-glowing soundscape for quiet moments. Make your own mix of wind, hoofbeats, wagon creaks, and distant birds—entirely offline.",
+  "description": "A little pocket prairie.\n\nTrail Radio brings the gentle rhythm of the trail to your iPhone and iPad: warm, bass-rich wind, soft hoofbeats, a creaking wagon, and birds in the distance.\n\nMAKE YOUR MIX\nAdjust each sound independently, from a quiet wind-only bed to the full rolling-wagon soundscape. Your sound levels are remembered on your device.\n\nTAKE IT ANYWHERE\nSounds are generated on your device. No streaming, downloads, or internet reception needed for playback.\n\nKEEP LISTENING\nPlay with your screen locked and use lock-screen play/pause controls. Set an optional sleep timer, or leave it off for continuous playback.\n\nSIMPLE AND PRIVATE\nA green monochrome interface. No account, ads, subscriptions, analytics, or tracking.\n\nUse a comfortable listening level. Trail Radio is an ambience app and does not provide medical treatment.",
+  "reviewNotes": "No login is required. Tap Take the Trail to start audio; it becomes Rest a While while playing. Each sound layer has an independent slider. Scroll down for the optional sleep timer and Privacy & Support. Background audio is a core feature: start playback and lock the device to continue listening. All audio is synthesized on-device; no content downloads or network access are required. The app does not record audio or request microphone access.",
+  "privacy": "Data Not Collected",
+  "releaseMode": "Manual release after approval",
+  "status": "Draft; not uploaded or submitted"
+}

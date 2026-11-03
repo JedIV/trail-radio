@@ -1,0 +1,16 @@
+name: Build and audio checks
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check synthesis
+        run: ./test-audio.sh
+      - name: Build iOS app
+        run: xcodebuild -quiet -project TrailRadio.xcodeproj -scheme TrailRadio -sdk iphonesimulator -destination 'generic/platform=iOS Simulator' CODE_SIGNING_ALLOWED=NO build
